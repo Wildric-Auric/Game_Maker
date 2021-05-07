@@ -1,0 +1,3 @@
+/// @description Insérez la description ici
+// Vous pouvez écrire votre code dans cet éditeur
+text = "1. You should follow the same path after the Rewind \n 2. Time when you stop is counted, stop in the same place at the same time \n 3.Cheat if you see a method, some levels are designed to be easily done by cheating; so it's like hacking the time. \n 4. Don't forget that you can press G to restart the level, and R to return to the menu. "
